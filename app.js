@@ -37,6 +37,7 @@ const playGame = (userChoice) => {
   const compChoice = genCompChoice();
 
   if (userChoice === compChoice) {
+   
     //Draw Game
     drawGame();
   } else {
