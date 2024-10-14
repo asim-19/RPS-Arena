@@ -23,14 +23,14 @@
   
   .choice:hover {
     cursor: pointer;
-    background-color: #071952;
+    background-color: #0719522;
   }
   
   img {
     height: 150px;
     width: 150px;
     object-fit: cover;
-    border-radius: 50%;
+    border-radius: 500%;
   }
   
   .choices {
